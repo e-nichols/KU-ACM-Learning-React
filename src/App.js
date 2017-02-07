@@ -17,12 +17,12 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>KU ACM: Learning React</h2>
         </div>
-        <p className="App-intro">
+        <p className="padded App-intro">
           You've made it! Here are some example components.
         </p>
         Example Components Below.
         <div className="padded">
-          <HelloWorld name="Evan" />
+          <HelloWorld name="ACM@KU" />
         </div>
         <div>
           <CoolButton color="red" />
