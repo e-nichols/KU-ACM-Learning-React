@@ -7,7 +7,7 @@ class CoolButton extends Component {
 
   render() {
     return (
-      <button style={{background: this.props.color}} onClick={this.onClick}>Button - Console.Log</button>
+      <button style={{background: this.props.color}} onClick={this.onClick}>Click Me and Check the Console</button>
     )
   }
 }
