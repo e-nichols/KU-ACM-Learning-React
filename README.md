@@ -2,21 +2,23 @@
 Example Code and Slides for ACM@KU's React Workshop.
 
 # Getting Set Up
-- Clone this repository to your computer in a location of your choosing.
-- In order to run today's example code, you'll need to make sure you have Node.js and npm, Node's package manager, installed. The current version of Node.js includes npm -- that means when you install Node, you automatically get npm installed, too. Woo!
+1. Clone this repository to your computer in a location of your choosing.
+2. In order to run today's example code, you'll need to make sure you have Node.js and npm, Node's package manager, installed. The current version of Node.js includes npm -- that means when you install Node, you automatically get npm installed, too. Woo!
   - [Link to Node JS Download Page](https://nodejs.org/en/download/)
-- Once you have Node set up on your computer, navigate into the root directory of this repo. You should see a file called package.json, along with this README and a few other directories.
-- From the command line, run `npm install`.
-- This will create a directory called "node_modules" which contains a bunch of dependencies we'll use today, including the React framework.
-- This command may take a while to run -- there are lots of dependencies. When it completes, you should see a big tree structure illustrating all the modules you just installed.
-- After that, run `npm start` from the same directory.
-- This should launch your browser to localhost:3000 and display a simple webpage titled "KU ACM: Learning React" with some extra stuff below that.
-- **(Side note: We are using a boilerplate React template called [Create React App](https://github.com/facebookincubator/create-react-app) that makes it super easy to get started. It includes a bunch of handy features that we'll talk about more later.)**
-- Bingo! You have the basics steps completed. Feel free to check out the components folder, which is located in the "src" directory. It contains all the example components we'll talk about.
+3. Once you have Node set up on your computer, navigate into the root directory of this repo. You should see a file called package.json, along with this README and a few other directories.
+4. From the command line, run `npm install`.
+  - This will create a directory called "node_modules" which contains a bunch of dependencies we'll use today, including the React framework.
+  -  This command may take a while to run -- there are lots of dependencies. When it completes, you should see a big tree structure illustrating all the modules you just installed.
+5. Now, run `npm start` from the same directory.
+  - This should launch your browser to localhost:3000 and display a simple webpage titled "KU ACM: Learning React" with some extra stuff below that.
+6. Bingo! You have the basics steps completed. Feel free to check out the components folder, which is located in the "src" directory. It contains all the example components we'll talk about. The slides folder contains a PDF of the presentation slides.
+
+*(Side note: We are using a boilerplate React template called [Create React App](https://github.com/facebookincubator/create-react-app) that makes it super easy to get started. It includes a bunch of handy features that we'll talk about more later.)*
 
 # I'm Having Trouble Getting Node/npm installed, or I'm having trouble running "npm start"
-- First, and always, try doing a quick google search of the error message you got. Read the first few stack overflow posts and see if there are any quick fixes.
-- If you can't get things working, *come to the workshop early and we'll take a look at things. I will be LEEP 1420 starting at 5:30 PM*.
+1. First, and always, try doing a quick google search of the error message you got. Read the first few stack overflow posts and see if there are any quick fixes.
+2. Read the Create-React-App reference below. Do any of those topics help answer your question?
+3. Still no luck? *come to the workshop early and we'll take a look at things. I will be LEEP 1420 starting at 5:30 PM*.
 
 # Generic Create-React-App Notes Are Below
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
