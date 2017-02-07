@@ -9,15 +9,14 @@ Example Code and Slides for ACM@KU's React Workshop.
 - From the command line, run `npm install`.
 - This will create a directory called "node_modules" which contains a bunch of dependencies we'll use today, including the React framework.
 - This command may take a while to run -- there are lots of dependencies. When it completes, you should see a big tree structure illustrating all the modules you just installed.
-- After that, run `npm start`.
+- After that, run `npm start` from the same directory.
 - This should launch your browser to localhost:3000 and display a simple webpage titled "KU ACM: Learning React" with some extra stuff below that.
-- (Side note: We are using a boilerplate React template called [Create React App](https://github.com/facebookincubator/create-react-app) that makes it super easy to get started. It includes a bunch of handy features that we'll talk about more later.)
+- **(Side note: We are using a boilerplate React template called [Create React App](https://github.com/facebookincubator/create-react-app) that makes it super easy to get started. It includes a bunch of handy features that we'll talk about more later.)**
 - Bingo! You have the basics steps completed. Feel free to check out the components folder, which is located in the "src" directory. It contains all the example components we'll talk about.
 
 # I'm Having Trouble Getting Node/npm installed, or I'm having trouble running "npm start"
 - First, and always, try doing a quick google search of the error message you got. Read the first few stack overflow posts and see if there are any quick fixes.
-- If you can't get things working, *come to the workshop early and we'll take a look at things. I will be LEEP 1420 starting at 5:30 PM*. 
-
+- If you can't get things working, *come to the workshop early and we'll take a look at things. I will be LEEP 1420 starting at 5:30 PM*.
 
 # Generic Create-React-App Notes Are Below
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
